@@ -4,6 +4,8 @@
 !.gitmodules
 !README.md
 !build.sbt
+!project/
+!project/plugins.sbt
 !edit/
 !edit/build.sbt
 !edit/src/
