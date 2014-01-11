@@ -1,0 +1,5 @@
+*
+!.gitignore
+!console/*
+!translators/*
+!build.sbt
