@@ -4,7 +4,7 @@
 !.gitmodules
 !README.md
 !build.sbt
-!console/
-!console/build.sbt
-!console/src/
-!console/src/**
+!edit/
+!edit/build.sbt
+!edit/src/
+!edit/src/**
