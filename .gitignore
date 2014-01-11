@@ -1,5 +1,8 @@
 *
 !.gitignore
-!console/*
-!translators/*
+!.gitmodules
+!console/
+!console/src/
+!console/src/**
+!console/build.sbt
 !build.sbt
