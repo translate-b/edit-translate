@@ -36,7 +36,7 @@ public class Program {
             printTranslations(term, SourceLanguage.GERMAN);
             System.out.println();
 
-            System.out.println("English->German");
+            System.out.println("English->German:");
             printTranslations(term, SourceLanguage.ENGLISH);
             System.out.println();
         }
