@@ -1,3 +1,4 @@
 [submodule "translators"]
 	path = translators
-	url = https://github.com/translate-b/translators
+	url = https://github.com/translate-b/translators.git
+	branch = master
